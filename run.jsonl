@@ -40,3 +40,9 @@
 {"type": "outgoing", "chat_id": 918227531, "response": "{\"answer\": {\"state\": \"Uttar Pradesh\"}, \"log_url\": \"\"}", "timestamp": 1785415937.421255}
 {"type": "incoming", "chat_id": 918227531, "question": "hi", "timestamp": 1785416213.0799675}
 {"type": "outgoing", "chat_id": 918227531, "response": "{\"message\": \"Hi! How can I help you today?\", \"log_url\": \"\"}", "timestamp": 1785416218.0682244}
+{"type": "incoming", "chat_id": 918227531, "question": "What is the capital of France?\n\nReply with ONLY this JSON object and nothing else:\n{\"answer\":{\"city\":\"<city>\"},\"log_url\":\"<public wget-able URL to your agent's JSONL log>\"}", "timestamp": 1785418467.3970244}
+{"type": "outgoing", "chat_id": 918227531, "response": "{\"answer\": {\"city\": \"Paris\"}, \"log_url\": \"https://raw.githubusercontent.com/23f1000703/telegram_data_bot/refs/heads/main/run.jsonl\"}", "timestamp": 1785418470.4968536}
+{"type": "incoming", "chat_id": 918227531, "question": "hi", "timestamp": 1785418593.7335868}
+{"type": "outgoing", "chat_id": 918227531, "response": "{\"answer\": {\"city\": \"\"}, \"log_url\": \"https://raw.githubusercontent.com/23f1000703/telegram_data_bot/refs/heads/main/run.jsonl\"}", "timestamp": 1785418596.0383613}
+{"type": "incoming", "chat_id": 918227531, "question": "hi", "timestamp": 1785418603.712763}
+{"type": "outgoing", "chat_id": 918227531, "response": "{\"answer\": {\"city\": \"\"}, \"log_url\": \"https://raw.githubusercontent.com/23f1000703/telegram_data_bot/refs/heads/main/run.jsonl\"}", "timestamp": 1785418605.522005}
