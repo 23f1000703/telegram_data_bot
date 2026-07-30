@@ -19,7 +19,7 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 AIPIPE_TOKEN = os.getenv("AIPIPE_TOKEN")
 
 # Temporary value
-LOG_URL = ""
+LOG_URL = "https://raw.githubusercontent.com/23f1000703/telegram_data_bot/refs/heads/main/run.jsonl"
 
 client = OpenAI(
     base_url="https://aipipe.org/openai/v1",
