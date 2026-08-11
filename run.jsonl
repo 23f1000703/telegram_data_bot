@@ -51,3 +51,4 @@
 {"type": "incoming", "chat_id": 918227531, "question": "What is the capital of France?\n\nReply with ONLY this JSON object and nothing else:\n{\"answer\":{\"city\":\"<city>\"},\"log_url\":\"<public wget-able URL to your agent's JSONL log>\"}", "timestamp": 1786431294.8055549}
 {"type": "outgoing", "chat_id": 918227531, "response": "{\"answer\": {\"city\": \"Paris\"}, \"log_url\": \"https://raw.githubusercontent.com/23f1000703/telegram_data_bot/main/run.jsonl\"}", "timestamp": 1786431297.0891504}
 {"type": "incoming", "chat_id": 918227531, "question": "hi", "timestamp": 1786431347.7308006}
+{"type": "outgoing", "chat_id": 918227531, "response": "{}", "timestamp": 1786431349.9032269}
